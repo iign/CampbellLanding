@@ -1,0 +1,22 @@
+{
+  "name": "IGN Landing",
+  "version": "0.1",
+  "authors": [
+    "Ignacio Toledo <ignacio@ign.uy>"
+  ],
+  "description": "IGN Homepage",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "ign.uy",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.sass": "~2.0.0"
+  }
+}
